@@ -1,4 +1,4 @@
-# Stabapay - Layer 2 Microtransaction System
+# Stabapay
 
 Stabapay is a **Layer 2 Microtransaction system** built on the **Dymension RollApp**, designed to enable **instant tipping, pay-per-second streaming, and in-game micropayments** with minimal fees. 
 
