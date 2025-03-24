@@ -123,7 +123,7 @@ function App() {
             <span className="font-semibold text-sky-900">Stabapay</span>
           </div>
           <div className="text-sm text-sky-600">
-            © 2025 Stabapay. Built on Dymension RollApp.
+            © 2025 Stabapay. Built on Dymension
           </div>
         </div>
       </footer>
