@@ -9,7 +9,7 @@
 
 ---
 
-![Stabapay Logo](public/staba.png)
+![Stabapay Logo](frontend/public/staba.png)
 
 
 ## 🚀 Why Stabapay? Market Disruption Potential
