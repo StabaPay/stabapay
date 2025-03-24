@@ -141,7 +141,4 @@ We're seeking:
 
 ---
 
-*Powered by Dymension's battle-tested infrastructure – processing 1.2M+ daily transactions across 50+ RollApps*  
-**Let's redefine digital value transfer!** 💫
-```
 
