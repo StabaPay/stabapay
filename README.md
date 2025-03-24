@@ -9,6 +9,9 @@
 
 ---
 
+![Stabapay Logo](public/staba.png)
+
+
 ## 🚀 Why Stabapay? Market Disruption Potential
 
 ### 🌍 **$2.3T Opportunity** in Digital Microtransactions

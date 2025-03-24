@@ -16,9 +16,9 @@ function App() {
         <div className="container mx-auto px-4 py-16 relative">
           <nav className="flex justify-between items-center mb-16">
             <div className="flex items-center space-x-2">
-              <Wallet2 className="w-8 h-8 text-sky-600 animate-float" />
-              <span className="text-2xl font-bold text-sky-900">Stabapay</span>
+            <img src="/sp.png" alt="Stabapay Logo" className="w-40 h-20" />
             </div>
+
             <div className="space-x-6">
               <a href="#features" className="text-sky-800 hover:text-sky-600 transition-colors">Features</a>
               <a href="#about" className="text-sky-800 hover:text-sky-600 transition-colors">About</a>
